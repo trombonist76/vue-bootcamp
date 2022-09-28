@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap');
+html,body,#app{
+  font-family: 'Sora', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+*{
+  margin: none ; 
+  padding: none;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+  outline: none;
+}
